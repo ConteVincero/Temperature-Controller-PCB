@@ -2576,7 +2576,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1U"
+		(property "Value" "0.1uF"
 			(at 74.93 48.768 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3382,7 +3382,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1U"
+		(property "Value" "0.1uF"
 			(at 74.93 28.448 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3549,7 +3549,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1"
+		(property "Value" "0.1uF"
 			(at 74.93 70.358 90)
 			(show_name no)
 			(do_not_autoplace no)
