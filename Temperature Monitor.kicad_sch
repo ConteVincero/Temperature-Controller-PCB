@@ -2387,6 +2387,16 @@
 		)
 		(uuid "fcd3f031-4da4-40ea-aebb-325e1f05f22c")
 	)
+	(label "Down"
+		(at 87.63 22.86 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "13010e9e-0b6c-4218-9069-923cd5bc811b")
+	)
 	(label "SENS_PWR"
 		(at 176.53 60.96 0)
 		(effects
@@ -2396,6 +2406,26 @@
 			(justify left bottom)
 		)
 		(uuid "14b29d34-788b-45f4-b7dc-5caa4a8a8a9d")
+	)
+	(label "Up"
+		(at 88.9 43.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "500ab996-5074-4ff2-a287-fc3c7c93400d")
+	)
+	(label "Select"
+		(at 78.74 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "abf131e0-802d-40e2-b205-12ffd223406c")
 	)
 	(label "DISP_PWR"
 		(at 74.93 78.74 0)
@@ -2546,7 +2576,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1"
+		(property "Value" "0.1U"
 			(at 74.93 48.768 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2627,7 +2657,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220R"
+		(property "Value" "220K"
 			(at 95.25 106.6799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3352,7 +3382,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1"
+		(property "Value" "0.1U"
 			(at 74.93 28.448 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3679,7 +3709,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220R"
+		(property "Value" "220K"
 			(at 104.14 106.6799 0)
 			(show_name no)
 			(do_not_autoplace no)
